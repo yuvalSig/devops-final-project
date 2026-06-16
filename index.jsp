@@ -154,7 +154,7 @@
         </div>
 
         <h1 id="main_title" data-testid="main-title">
-            DevOps Final Project
+            DevOps Final Project Presentation
         </h1>
 
         <p class="subtitle" id="project_subtitle">
